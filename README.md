@@ -1,5 +1,5 @@
 # Yale-Coursework
-Bachelor of Science in Computer Science & Economics
+Bachelor of Science in Computer Science & Economics,
 Bachelor of Science in Statistics & Data Science
 
 | Academic Semester |                                               |                                         |                                  |                                     |                                 |               |
